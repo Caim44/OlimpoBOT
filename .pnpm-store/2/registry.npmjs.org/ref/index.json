@@ -1,0 +1,1023 @@
+{
+	"name": "ref",
+	"dist-tags": {
+		"latest": "1.3.5"
+	},
+	"versions": {
+		"0.0.1": {
+			"name": "ref",
+			"version": "0.0.1",
+			"dependencies": {
+				"debug": "*"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"weak": "*"
+			},
+			"dist": {
+				"shasum": "08fc69166dc273207cb1b945573a94cacb1e2c8e",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-0.0.1.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"hasInstallScript": true
+		},
+		"0.0.2": {
+			"name": "ref",
+			"version": "0.0.2",
+			"dependencies": {
+				"debug": "*"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"weak": "*"
+			},
+			"dist": {
+				"shasum": "d39a6d76e7a079de00840e3aacb59643db26016b",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-0.0.2.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"hasInstallScript": true
+		},
+		"0.0.3": {
+			"name": "ref",
+			"version": "0.0.3",
+			"dependencies": {
+				"debug": "*"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"weak": "*"
+			},
+			"dist": {
+				"shasum": "99957e9c8e757e5a51a3b468a70ebbb3a32e3491",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-0.0.3.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"hasInstallScript": true
+		},
+		"0.0.4": {
+			"name": "ref",
+			"version": "0.0.4",
+			"dependencies": {
+				"debug": "*"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"weak": "*"
+			},
+			"dist": {
+				"shasum": "d9bc4ca94767433ab330509f38938d94564729d8",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-0.0.4.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"hasInstallScript": true
+		},
+		"0.0.5": {
+			"name": "ref",
+			"version": "0.0.5",
+			"dependencies": {
+				"debug": "*"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"weak": "*"
+			},
+			"dist": {
+				"shasum": "fb8a4a4d268f1109d474d492fedf596795ce1590",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-0.0.5.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"hasInstallScript": true
+		},
+		"0.0.6": {
+			"name": "ref",
+			"version": "0.0.6",
+			"dependencies": {
+				"debug": "*"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"weak": "*"
+			},
+			"dist": {
+				"shasum": "ae5d05b7f46b98c11a591624bb0d6cf7b1fcf197",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-0.0.6.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"hasInstallScript": true
+		},
+		"0.0.7": {
+			"name": "ref",
+			"version": "0.0.7",
+			"dependencies": {
+				"debug": "*"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"weak": "*"
+			},
+			"dist": {
+				"shasum": "783b970e952dd291b472ed54034d7875fcf340f4",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-0.0.7.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"hasInstallScript": true
+		},
+		"0.0.8": {
+			"name": "ref",
+			"version": "0.0.8",
+			"dependencies": {
+				"debug": "*"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"weak": "*"
+			},
+			"dist": {
+				"shasum": "4dfc96575e61d89cea361e84f5936faa40e651e8",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-0.0.8.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"hasInstallScript": true
+		},
+		"0.0.9": {
+			"name": "ref",
+			"version": "0.0.9",
+			"dependencies": {
+				"debug": "*"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"weak": "*"
+			},
+			"dist": {
+				"shasum": "28b0312125ef64a93d2cfd313f24f48447bfe245",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-0.0.9.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"hasInstallScript": true
+		},
+		"0.0.10": {
+			"name": "ref",
+			"version": "0.0.10",
+			"dependencies": {
+				"debug": "*"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"weak": "*"
+			},
+			"dist": {
+				"shasum": "6c6f3cbb784378da6d5c0cca1b1afac8bc30e483",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-0.0.10.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"hasInstallScript": true
+		},
+		"0.0.11": {
+			"name": "ref",
+			"version": "0.0.11",
+			"dependencies": {
+				"debug": "*"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"weak": "*"
+			},
+			"dist": {
+				"shasum": "cb25767c54fc90b8b18bace24709eb373b8fde45",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-0.0.11.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"hasInstallScript": true
+		},
+		"0.0.12": {
+			"name": "ref",
+			"version": "0.0.12",
+			"dependencies": {
+				"debug": "*"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"weak": "*"
+			},
+			"dist": {
+				"shasum": "21fd7526f028ebf09ef4b03c7c755d1913d2074c",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-0.0.12.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"hasInstallScript": true
+		},
+		"0.0.13": {
+			"name": "ref",
+			"version": "0.0.13",
+			"dependencies": {
+				"debug": "*"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"weak": "*"
+			},
+			"dist": {
+				"shasum": "084be375d77e871b32109a5f0b96279818b8818e",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-0.0.13.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"hasInstallScript": true
+		},
+		"0.0.14": {
+			"name": "ref",
+			"version": "0.0.14",
+			"dependencies": {
+				"debug": "*"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"weak": "*"
+			},
+			"dist": {
+				"shasum": "e822c8652ecf11822cc3387c5d542fe59e7413d3",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-0.0.14.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"hasInstallScript": true
+		},
+		"0.0.15": {
+			"name": "ref",
+			"version": "0.0.15",
+			"dependencies": {
+				"debug": "*"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"weak": "*"
+			},
+			"dist": {
+				"shasum": "a80d94f41eb2cfa561555070ef3b735a63c83626",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-0.0.15.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"hasInstallScript": true
+		},
+		"0.0.16": {
+			"name": "ref",
+			"version": "0.0.16",
+			"dependencies": {
+				"debug": "*"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"weak": "*"
+			},
+			"dist": {
+				"shasum": "ecaeebb084042f128422f9bb3b652a27048782f8",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-0.0.16.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"hasInstallScript": true
+		},
+		"0.0.17": {
+			"name": "ref",
+			"version": "0.0.17",
+			"dependencies": {
+				"debug": "*"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"weak": "*"
+			},
+			"dist": {
+				"shasum": "5aa82eab53a08c34e2a34f31db6560658d94cae3",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-0.0.17.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"hasInstallScript": true
+		},
+		"0.0.18": {
+			"name": "ref",
+			"version": "0.0.18",
+			"dependencies": {
+				"debug": "*"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"weak": "*",
+				"dox": "*",
+				"jade": "*"
+			},
+			"dist": {
+				"shasum": "4f3e37aad7521e0f55a4f208ecb72351ac3ab565",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-0.0.18.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"hasInstallScript": true
+		},
+		"0.0.19": {
+			"name": "ref",
+			"version": "0.0.19",
+			"dependencies": {
+				"bindings": "*",
+				"debug": "*"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"weak": "*",
+				"dox": "*",
+				"jade": "*"
+			},
+			"dist": {
+				"shasum": "959f86f6b28d1d61c5d943e842fbf234201d36c4",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-0.0.19.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"hasInstallScript": true
+		},
+		"0.0.20": {
+			"name": "ref",
+			"version": "0.0.20",
+			"dependencies": {
+				"bindings": "*",
+				"debug": "*"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"weak": "*",
+				"dox": "*",
+				"jade": "*"
+			},
+			"dist": {
+				"shasum": "fc4170519540ab4ebcada34e8c4b330eea27dba7",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-0.0.20.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"hasInstallScript": true
+		},
+		"0.1.0": {
+			"name": "ref",
+			"version": "0.1.0",
+			"dependencies": {
+				"bindings": "*",
+				"debug": "*"
+			},
+			"devDependencies": {
+				"dox": "*",
+				"highlight.js": "1",
+				"jade": "*",
+				"marked": "*",
+				"mocha": "*",
+				"weak": "*"
+			},
+			"dist": {
+				"shasum": "3fb930e26944017726f9b22152b1d212beff3e4b",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-0.1.0.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"hasInstallScript": true
+		},
+		"0.1.1": {
+			"name": "ref",
+			"version": "0.1.1",
+			"dependencies": {
+				"bindings": "*",
+				"debug": "*"
+			},
+			"devDependencies": {
+				"dox": "*",
+				"highlight.js": "1",
+				"jade": "*",
+				"marked": "*",
+				"mocha": "*",
+				"weak": "*"
+			},
+			"dist": {
+				"shasum": "6256c47b0271a7702fbb8cdc280e9d01fbca11fa",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-0.1.1.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"hasInstallScript": true
+		},
+		"0.1.2": {
+			"name": "ref",
+			"version": "0.1.2",
+			"dependencies": {
+				"bindings": "*",
+				"debug": "*"
+			},
+			"devDependencies": {
+				"dox": "*",
+				"highlight.js": "1",
+				"jade": "*",
+				"marked": "*",
+				"mocha": "*",
+				"weak": "*"
+			},
+			"dist": {
+				"shasum": "4b9c8cda9f83016f06eca3b0f56572e97045c11b",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-0.1.2.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"hasInstallScript": true
+		},
+		"0.1.3": {
+			"name": "ref",
+			"version": "0.1.3",
+			"dependencies": {
+				"bindings": "*",
+				"debug": "*"
+			},
+			"devDependencies": {
+				"dox": "*",
+				"highlight.js": "1",
+				"jade": "*",
+				"marked": "*",
+				"mocha": "*",
+				"weak": "*"
+			},
+			"dist": {
+				"shasum": "ad268e2e393aa02b89cba655aca6d2c506743faa",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-0.1.3.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"hasInstallScript": true
+		},
+		"0.2.0": {
+			"name": "ref",
+			"version": "0.2.0",
+			"dependencies": {
+				"bindings": "~1.2.0",
+				"debug": "~0.8.0",
+				"nan": "~1.1.0"
+			},
+			"devDependencies": {
+				"dox": "*",
+				"highlight.js": "1",
+				"jade": "*",
+				"marked": "*",
+				"mocha": "*",
+				"weak": "*"
+			},
+			"dist": {
+				"shasum": "e25a8bd31b8c7966500b48d7ccf22991bae1c6c5",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-0.2.0.tgz"
+			},
+			"hasInstallScript": true
+		},
+		"0.2.1": {
+			"name": "ref",
+			"version": "0.2.1",
+			"dependencies": {
+				"bindings": "~1.2.0",
+				"debug": "~0.8.0",
+				"nan": "https://github.com/rvagg/nan/archive/47a7e16956a876adfc86efef3c28b4d0ecbb6752.tar.gz"
+			},
+			"devDependencies": {
+				"dox": "0.4.4",
+				"highlight.js": "1",
+				"jade": "0.35.0",
+				"marked": "0.3.2",
+				"mocha": "*",
+				"weak": "0.3.2"
+			},
+			"dist": {
+				"shasum": "2f6d9148652e3fd902dd864f3088751c225ac14a",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-0.2.1.tgz"
+			},
+			"hasInstallScript": true
+		},
+		"0.2.2": {
+			"name": "ref",
+			"version": "0.2.2",
+			"dependencies": {
+				"bindings": "~1.2.0",
+				"debug": "~0.8.1",
+				"nan": "~1.1.2"
+			},
+			"devDependencies": {
+				"dox": "0.4.4",
+				"highlight.js": "1",
+				"jade": "0.35.0",
+				"marked": "0.3.2",
+				"mocha": "*",
+				"weak": "0.3.2"
+			},
+			"dist": {
+				"shasum": "208527abb1d01959157477f36a84ef79a7568a6a",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-0.2.2.tgz"
+			},
+			"hasInstallScript": true
+		},
+		"0.2.3": {
+			"name": "ref",
+			"version": "0.2.3",
+			"dependencies": {
+				"bindings": "~1.2.0",
+				"debug": "~0.8.1",
+				"nan": "~1.2.0"
+			},
+			"devDependencies": {
+				"dox": "0.4.4",
+				"highlight.js": "1",
+				"jade": "0.35.0",
+				"marked": "0.3.2",
+				"mocha": "*",
+				"weak": "0.3.2"
+			},
+			"dist": {
+				"shasum": "8d7c0f200ea084599f5ab4337cb0ccbdd320d6b9",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-0.2.3.tgz"
+			},
+			"hasInstallScript": true
+		},
+		"0.3.0": {
+			"name": "ref",
+			"version": "0.3.0",
+			"dependencies": {
+				"bindings": "~1.2.0",
+				"debug": "~1.0.1",
+				"nan": "~1.2.0"
+			},
+			"devDependencies": {
+				"dox": "0.4.4",
+				"highlight.js": "1",
+				"jade": "0.35.0",
+				"marked": "0.3.2",
+				"mocha": "*",
+				"weak": "0.3.2"
+			},
+			"dist": {
+				"shasum": "c14e9016bc36172f728aeec14909e71f847d47e5",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-0.3.0.tgz"
+			},
+			"hasInstallScript": true
+		},
+		"0.3.1": {
+			"name": "ref",
+			"version": "0.3.1",
+			"dependencies": {
+				"bindings": "~1.2.0",
+				"debug": "~1.0.1",
+				"nan": "~1.2.0"
+			},
+			"devDependencies": {
+				"dox": "0.4.4",
+				"highlight.js": "1",
+				"jade": "0.35.0",
+				"marked": "0.3.2",
+				"mocha": "*",
+				"weak": "0.3.2"
+			},
+			"dist": {
+				"shasum": "f00fc55c359c30c2481209b87fb021741dd79072",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-0.3.1.tgz"
+			},
+			"hasInstallScript": true
+		},
+		"0.3.2": {
+			"name": "ref",
+			"version": "0.3.2",
+			"dependencies": {
+				"bindings": "~1.2.0",
+				"debug": "~1.0.1",
+				"nan": "~1.2.0"
+			},
+			"devDependencies": {
+				"dox": "0.4.4",
+				"highlight.js": "1",
+				"jade": "0.35.0",
+				"marked": "0.3.2",
+				"mocha": "*",
+				"weak": "0.3.2"
+			},
+			"dist": {
+				"shasum": "76cd64871b9d3cca65bf3aae6788d3f1f3eb0761",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-0.3.2.tgz"
+			},
+			"hasInstallScript": true
+		},
+		"0.3.3": {
+			"name": "ref",
+			"version": "0.3.3",
+			"dependencies": {
+				"bindings": "~1.2.0",
+				"debug": "2",
+				"nan": "~1.2.0"
+			},
+			"devDependencies": {
+				"dox": "0.4.4",
+				"highlight.js": "1",
+				"jade": "0.35.0",
+				"marked": "0.3.2",
+				"mocha": "*",
+				"weak": "0.3.2"
+			},
+			"dist": {
+				"shasum": "54b9428c63c62092b3479da9a1a5e5d5d49fbe9f",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-0.3.3.tgz"
+			},
+			"hasInstallScript": true
+		},
+		"0.3.4": {
+			"name": "ref",
+			"version": "0.3.4",
+			"dependencies": {
+				"bindings": "~1.2.0",
+				"debug": "2",
+				"nan": "~1.5.1"
+			},
+			"devDependencies": {
+				"dox": "0.4.4",
+				"highlight.js": "1",
+				"jade": "0.35.0",
+				"marked": "0.3.2",
+				"mocha": "*",
+				"weak": "0.3.2"
+			},
+			"dist": {
+				"shasum": "7aa0f33dbbb077f98531b773d25f5a337f26524e",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-0.3.4.tgz"
+			},
+			"hasInstallScript": true
+		},
+		"0.3.5": {
+			"name": "ref",
+			"version": "0.3.5",
+			"dependencies": {
+				"bindings": "~1.2.0",
+				"debug": "2",
+				"nan": "~1.5.1"
+			},
+			"devDependencies": {
+				"dox": "0.4.4",
+				"highlight.js": "1",
+				"jade": "0.35.0",
+				"marked": "0.3.2",
+				"mocha": "*",
+				"weak": "0.3.2"
+			},
+			"dist": {
+				"shasum": "c48dedee38b9ba7ae9bcef1150175f1a64f004b0",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-0.3.5.tgz"
+			},
+			"hasInstallScript": true
+		},
+		"1.0.0": {
+			"name": "ref",
+			"version": "1.0.0",
+			"dependencies": {
+				"bindings": "~1.2.0",
+				"debug": "2",
+				"nan": "~1.5.1"
+			},
+			"devDependencies": {
+				"dox": "0.4.4",
+				"highlight.js": "1",
+				"jade": "0.35.0",
+				"marked": "0.3.2",
+				"mocha": "*",
+				"weak": "0.3.2"
+			},
+			"dist": {
+				"shasum": "ca69088cfa36045e2d9cb12faf0fb346b2054093",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-1.0.0.tgz"
+			},
+			"hasInstallScript": true
+		},
+		"1.0.1": {
+			"name": "ref",
+			"version": "1.0.1",
+			"dependencies": {
+				"bindings": "~1.2.0",
+				"debug": "2",
+				"nan": "~1.7.0"
+			},
+			"devDependencies": {
+				"dox": "0.4.4",
+				"highlight.js": "1",
+				"jade": "0.35.0",
+				"marked": "0.3.2",
+				"mocha": "*",
+				"weak": "0.3.2"
+			},
+			"dist": {
+				"shasum": "856020a2bfeb21787f70a7aab912a9227be85f73",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-1.0.1.tgz"
+			},
+			"hasInstallScript": true
+		},
+		"1.0.2": {
+			"name": "ref",
+			"version": "1.0.2",
+			"dependencies": {
+				"bindings": "~1.2.0",
+				"debug": "2",
+				"nan": "~1.8.4"
+			},
+			"devDependencies": {
+				"dox": "0.4.4",
+				"highlight.js": "1",
+				"jade": "0.35.0",
+				"marked": "0.3.2",
+				"mocha": "*",
+				"weak": "0.3.2"
+			},
+			"dist": {
+				"shasum": "493772a9bf41d6e45d6254e8f654ce64a84bbe8c",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-1.0.2.tgz"
+			},
+			"hasInstallScript": true
+		},
+		"1.1.0": {
+			"name": "ref",
+			"version": "1.1.0",
+			"dependencies": {
+				"bindings": "1",
+				"debug": "2",
+				"nan": "2"
+			},
+			"devDependencies": {
+				"dox": "0.4.4",
+				"highlight.js": "1",
+				"jade": "^0.35.0",
+				"marked": "^0.3.2",
+				"mocha": "*",
+				"weak": "1"
+			},
+			"dist": {
+				"shasum": "705479af8bb7d0e6938b084462ead3f48c3e872a",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-1.1.0.tgz"
+			},
+			"hasInstallScript": true
+		},
+		"1.1.1": {
+			"name": "ref",
+			"version": "1.1.1",
+			"dependencies": {
+				"bindings": "1",
+				"debug": "2",
+				"nan": "2"
+			},
+			"devDependencies": {
+				"dox": "0.4.4",
+				"highlight.js": "1",
+				"jade": "^0.35.0",
+				"marked": "^0.3.2",
+				"mocha": "*",
+				"weak": "1"
+			},
+			"dist": {
+				"shasum": "403bbff5fd4b550de2cf185204ee06bff605660a",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-1.1.1.tgz"
+			},
+			"hasInstallScript": true
+		},
+		"1.1.2": {
+			"name": "ref",
+			"version": "1.1.2",
+			"dependencies": {
+				"bindings": "1",
+				"debug": "2",
+				"nan": "2"
+			},
+			"devDependencies": {
+				"dox": "0.4.4",
+				"highlight.js": "1",
+				"jade": "^0.35.0",
+				"marked": "^0.3.2",
+				"mocha": "*",
+				"weak": "1"
+			},
+			"dist": {
+				"shasum": "63d38a62e38031db1f7ca93c46dbe6d7092a6f82",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-1.1.2.tgz"
+			},
+			"hasInstallScript": true
+		},
+		"1.1.3": {
+			"name": "ref",
+			"version": "1.1.3",
+			"dependencies": {
+				"bindings": "1",
+				"debug": "2",
+				"nan": "2"
+			},
+			"devDependencies": {
+				"dox": "0.4.4",
+				"highlight.js": "1",
+				"jade": "^0.35.0",
+				"marked": "^0.3.2",
+				"mocha": "*",
+				"weak": "1"
+			},
+			"dist": {
+				"shasum": "af499d107127046b7751f2df554ba7852866aee4",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-1.1.3.tgz"
+			},
+			"hasInstallScript": true
+		},
+		"1.2.0": {
+			"name": "ref",
+			"version": "1.2.0",
+			"dependencies": {
+				"bindings": "1",
+				"debug": "2",
+				"nan": "2"
+			},
+			"devDependencies": {
+				"dox": "0.4.4",
+				"highlight.js": "1",
+				"jade": "^0.35.0",
+				"marked": "^0.3.2",
+				"mocha": "*",
+				"weak": "1"
+			},
+			"dist": {
+				"shasum": "12aa4b1a792ea316a7c8ed4340ed4d84d74a987e",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-1.2.0.tgz"
+			},
+			"hasInstallScript": true
+		},
+		"1.3.0": {
+			"name": "ref",
+			"version": "1.3.0",
+			"dependencies": {
+				"bindings": "1",
+				"debug": "2",
+				"nan": "2"
+			},
+			"devDependencies": {
+				"dox": "0.4.4",
+				"highlight.js": "1",
+				"jade": "^0.35.0",
+				"marked": "^0.3.2",
+				"mocha": "*",
+				"weak": "1"
+			},
+			"dist": {
+				"shasum": "86633470fc99408da26dd7f75187bd10261f8cdd",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-1.3.0.tgz"
+			},
+			"hasInstallScript": true
+		},
+		"1.3.1": {
+			"name": "ref",
+			"version": "1.3.1",
+			"dependencies": {
+				"bindings": "1",
+				"debug": "2",
+				"nan": "2"
+			},
+			"devDependencies": {
+				"dox": "0.4.4",
+				"highlight.js": "1",
+				"jade": "^0.35.0",
+				"marked": "^0.3.2",
+				"mocha": "*",
+				"weak": "1"
+			},
+			"dist": {
+				"shasum": "68abc6610389af792069664737f4be81619bc74a",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-1.3.1.tgz"
+			},
+			"hasInstallScript": true
+		},
+		"1.3.2": {
+			"name": "ref",
+			"version": "1.3.2",
+			"dependencies": {
+				"bindings": "1",
+				"debug": "2",
+				"nan": "2"
+			},
+			"devDependencies": {
+				"dox": "0.4.4",
+				"highlight.js": "1",
+				"jade": "^0.35.0",
+				"marked": "^0.3.2",
+				"mocha": "*",
+				"weak": "1"
+			},
+			"dist": {
+				"shasum": "f500f22be73fdcd632668e7795309cf088fd06d6",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-1.3.2.tgz"
+			},
+			"hasInstallScript": true
+		},
+		"1.3.3": {
+			"name": "ref",
+			"version": "1.3.3",
+			"dependencies": {
+				"bindings": "1",
+				"debug": "2",
+				"nan": "2"
+			},
+			"devDependencies": {
+				"dox": "0.4.4",
+				"highlight.js": "1",
+				"jade": "^0.35.0",
+				"marked": "^0.3.2",
+				"mocha": "*",
+				"weak": "1"
+			},
+			"dist": {
+				"shasum": "116d1ef64f2bc56d9e54a648cea7332a36b81932",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-1.3.3.tgz"
+			},
+			"hasInstallScript": true
+		},
+		"1.3.4": {
+			"name": "ref",
+			"version": "1.3.4",
+			"dependencies": {
+				"bindings": "1",
+				"debug": "2",
+				"nan": "2"
+			},
+			"devDependencies": {
+				"dox": "0.4.4",
+				"highlight.js": "1",
+				"jade": "^0.35.0",
+				"marked": "^0.3.2",
+				"mocha": "*",
+				"weak": "1"
+			},
+			"dist": {
+				"shasum": "724d2bf8ac85f8c8db194d3d85be6efe416bc1e5",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-1.3.4.tgz"
+			},
+			"hasInstallScript": true
+		},
+		"1.3.5": {
+			"name": "ref",
+			"version": "1.3.5",
+			"dependencies": {
+				"bindings": "1",
+				"debug": "2",
+				"nan": "2"
+			},
+			"devDependencies": {
+				"dox": "0.4.4",
+				"highlight.js": "1",
+				"jade": "^0.35.0",
+				"marked": "^0.3.2",
+				"mocha": "*",
+				"weak": "1"
+			},
+			"dist": {
+				"integrity": "sha512-2cBCniTtxcGUjDpvFfVpw323a83/0RLSGJJY5l5lcomZWhYpU2cuLdsvYqMixvsdLJ9+sTdzEkju8J8ZHDM2nA==",
+				"shasum": "0e33f080cdb94a3d95312b2b3b1fd0f82044ca0f",
+				"tarball": "https://registry.npmjs.org/ref/-/ref-1.3.5.tgz"
+			},
+			"hasInstallScript": true
+		}
+	},
+	"modified": "2018-01-16T03:03:06.174Z",
+	"cachedAt": 1587449858709
+}

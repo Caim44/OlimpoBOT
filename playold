@@ -1,0 +1,89 @@
+const Discord = require('discord.js')
+const ytdl = require('ytdl-core')
+const yts = require('yt-search')
+
+exports.run = async (client, message, args, opus, opt) => {
+    if(!message.member.voice.channel) return message.reply("Você precisa estar conectado em um canal de voz!")
+    if(!args[0]) return message.reply("Digite o nome de uma música, ou a URL dela no youtube.")
+    
+    let validURL;
+
+    let validate = await ytdl.validateURL(args[0])
+    if(!validate) {
+        yts(args.join(' '), function(err, res) {
+            if(err) console.log(err)
+    
+            let videos = res.videos.slice(0, 10)
+            let resp = ''
+    
+            for(var i in videos) {
+                resp += `**[${parseInt(i)+1}]:** \`${videos[i].title}\n\``;
+            }
+    
+            let embed = new Discord.MessageEmbed()
+            .addField(`Resultado para ${args.join(' ')}`, `${resp}`)
+            message.channel.send(embed)
+            resp += `**Escolha um número de** \`1-${videos.length}\``
+    
+            const filter = m => !isNaN(m.content) && m.content < videos.length+1 && m.content > 0
+            const collector = message.channel.createMessageCollector(filter);
+            collector.once('collect', async function(m) {
+    
+            validURL = (`${videos[parseInt(m.content - 1)].url}`)
+
+
+    let info = await ytdl.getInfo(validURL)
+    args[0] = validURL
+              message.channel.send(args[0])
+
+    let data = opt.active.get(message.guild.id) || {};
+    if(!data.connection) data.connection = await message.member.voice.channel.join();
+    if(!data.queue) data.queue = [];
+    data.guildID = message.guild.id;
+
+    data.queue.push({
+        Titulo: info.title,
+        cliente: message.author,
+        url: args[0],
+        canal: message.channel.id
+    })
+
+    if(!data.dispatcher) play(client, opt, data);
+    else {
+        message.channel.send(`Adicionado á lista de espera: **${info.title}** | Posição: \`${data.queue.length - 1}\` | Pedido por: ${message.author}`)
+    }
+
+    opt.active.set(message.guild.id, data);
+
+    async function play(client, opt, data) {
+        client.channels.cache.get(data.queue[0].canal).send(`Tocando agora: **${data.queue[0].Titulo}** | Pedido por: ${data.queue[0].cliente}`);
+        data.dispatcher = await data.connection.play(ytdl(data.queue[0].url, {filter: 'audioonly'}));
+        data.dispatcher.guildID = data.guildID;
+        
+        data.dispatcher.once('finish', function() {
+            finish(client, opt, data)
+        })
+    }
+  
+function finish(client, opt, dispatcher) {
+    let fetched = opt.active.get(dispatcher.guildID);
+    fetched.queue.shift()
+    if(fetched.queue.length > 0) {
+        opt.active.set(dispatcher.guildID, fetched);
+        play(client, opt, fetched);
+
+    } else {
+        opt.active.delete(dispatcher.guildID);
+        let vc = client.guilds.cache.get(dispatcher.guildID).me.voice.channel;
+        if(vc) vc.leave()
+    }
+    }
+    })
+    })
+}
+}
+exports.config = {
+    name: 'play',
+    aliases: ['tocar'],
+    category: 'music'
+}
