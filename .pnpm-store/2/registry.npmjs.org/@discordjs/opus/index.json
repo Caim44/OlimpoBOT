@@ -1,0 +1,33 @@
+{
+	"name": "@discordjs/opus",
+	"dist-tags": {
+		"latest": "0.1.0"
+	},
+	"versions": {
+		"0.1.0": {
+			"name": "@discordjs/opus",
+			"version": "0.1.0",
+			"dependencies": {
+				"node-addon-api": "^2.0.0",
+				"node-pre-gyp": "^0.14.0"
+			},
+			"devDependencies": {
+				"eslint": "^6.8.0",
+				"eslint-config-aqua": "^7.1.2",
+				"prism-media": "^1.1.0",
+				"typescript": "^3.7.4"
+			},
+			"dist": {
+				"integrity": "sha512-VWsrsgqSktxOEHx9SFcnOWJhYQOsyzaW3JVN73LDSzKrycEjtRIS+axlm4qeMGx60u6RH1SY15b3pl5G4+Y+gA==",
+				"shasum": "0178d6b9c8e6fbbeb167108254d7fe7eaafdea36",
+				"tarball": "https://registry.npmjs.org/@discordjs/opus/-/opus-0.1.0.tgz",
+				"fileCount": 400,
+				"unpackedSize": 5107745,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJeH4OoCRA9TVsSAnZWagAAxj4P/ipfkh3NCKBs5MWdv1Ba\nve59V71+Lq7yS4120B18HV7XpaInLVbWk4e8oKpvT5jVWa+mYIOXHzPoaMZA\nAo+ZIcIXqchuxh75rowmtLzKJuuYXLTNvmelqBW0SWxxSiATLx57PEoawQBc\nJklYK3X0UWfiVNwXMqZ7Hg84wyd2zzFH74+JNT/Aost9Q1W6FJG9GL9Kd9ZP\nZveU8ThKMSQelLCEOKbEu2zMW0mGXHCq1yNUQFbsIeVrEV5Iu8auv/QKJCRW\nzik/89NQ8gW2zlilhz0DXBqO03NAnuez9Oa8Sa5IUlbaVGNxfNWuBnlhNPxV\nTVR0aR6KBnn3stadPaJjw0IJgm0rrxygR/EovLZvyp7+7S4/7CJuul/aYtf2\nbhzpDhF4Bh/vEBK1Ma0e0v56BfJltnVj5eyhZlqHVgxjyDXo+ez9JXeoLufd\n7dDbO/m7eaHVAI8X5PW+xs4k9vZYgmFjb0ChSz/gyutxqerZ944Cub9CkNvb\n+Y2GdLYrZIwWPD73XxHJWYAtzyZd0aZdAx7KGxD6DTBy2NDme+3BxeWVBy0Y\nAYOUxDCW9eDD2cJ/jBi3ttqDE1C5jFUcM0o38Dz8YEDa9e11Ygty/ipsCoOz\nQQ3Z8lwMIGQDhpKF1Br/N09V0+p61cc+bPFvHNUEq5qaeuliK4dBIWcrkaod\nCZLo\r\n=Tt9m\r\n-----END PGP SIGNATURE-----\r\n"
+			},
+			"hasInstallScript": true
+		}
+	},
+	"modified": "2020-01-15T21:27:07.540Z",
+	"cachedAt": 1587449858558
+}

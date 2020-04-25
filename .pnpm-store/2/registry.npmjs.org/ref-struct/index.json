@@ -1,0 +1,210 @@
+{
+	"name": "ref-struct",
+	"dist-tags": {
+		"latest": "1.1.0"
+	},
+	"versions": {
+		"0.0.1": {
+			"name": "ref-struct",
+			"version": "0.0.1",
+			"dependencies": {
+				"debug": "*",
+				"ref": "0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"dist": {
+				"shasum": "c02ad28b793505dbfa201f16abe6cda442839688",
+				"tarball": "https://registry.npmjs.org/ref-struct/-/ref-struct-0.0.1.tgz"
+			},
+			"engines": {
+				"node": "*"
+			}
+		},
+		"0.0.2": {
+			"name": "ref-struct",
+			"version": "0.0.2",
+			"dependencies": {
+				"debug": "*",
+				"ref": "0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"dist": {
+				"shasum": "4760d743a8a4b4bc79420a70ed7b4ce94ea9c517",
+				"tarball": "https://registry.npmjs.org/ref-struct/-/ref-struct-0.0.2.tgz"
+			},
+			"engines": {
+				"node": "*"
+			}
+		},
+		"0.0.3": {
+			"name": "ref-struct",
+			"version": "0.0.3",
+			"dependencies": {
+				"debug": "*",
+				"ref": "0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"dist": {
+				"shasum": "c9a5aee16c87dcd16aa7f9791f73b93ea9a46e6b",
+				"tarball": "https://registry.npmjs.org/ref-struct/-/ref-struct-0.0.3.tgz"
+			},
+			"engines": {
+				"node": "*"
+			}
+		},
+		"0.0.4": {
+			"name": "ref-struct",
+			"version": "0.0.4",
+			"dependencies": {
+				"debug": "*",
+				"ref": "0"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"ref-array": "*"
+			},
+			"dist": {
+				"shasum": "064d15402f6acec6525c2c31d43d08fabb948c82",
+				"tarball": "https://registry.npmjs.org/ref-struct/-/ref-struct-0.0.4.tgz"
+			},
+			"engines": {
+				"node": "*"
+			}
+		},
+		"0.0.5": {
+			"name": "ref-struct",
+			"version": "0.0.5",
+			"dependencies": {
+				"debug": "*",
+				"ref": "0"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"ref-array": "*"
+			},
+			"dist": {
+				"shasum": "d5e315e758a5bcf7f2407d281aa92a5d04087ace",
+				"tarball": "https://registry.npmjs.org/ref-struct/-/ref-struct-0.0.5.tgz"
+			},
+			"engines": {
+				"node": "*"
+			}
+		},
+		"0.0.6": {
+			"name": "ref-struct",
+			"version": "0.0.6",
+			"dependencies": {
+				"debug": "~1.0.1",
+				"ref": "~0.3.2"
+			},
+			"devDependencies": {
+				"bindings": "~1.2.0",
+				"nan": "~1.1.0",
+				"mocha": "*",
+				"ref-array": "~0.0.3"
+			},
+			"dist": {
+				"shasum": "1493ec4891f9bf91013ba6e7482443d1f0bbd22b",
+				"tarball": "https://registry.npmjs.org/ref-struct/-/ref-struct-0.0.6.tgz"
+			}
+		},
+		"0.0.7": {
+			"name": "ref-struct",
+			"version": "0.0.7",
+			"dependencies": {
+				"debug": "2",
+				"ref": "~0.3.2"
+			},
+			"devDependencies": {
+				"bindings": "~1.2.0",
+				"nan": "~1.1.0",
+				"mocha": "*",
+				"ref-array": "~0.0.3"
+			},
+			"dist": {
+				"shasum": "b39c265d5361cb52d12483fafa4a03512b6beeb7",
+				"tarball": "https://registry.npmjs.org/ref-struct/-/ref-struct-0.0.7.tgz"
+			}
+		},
+		"1.0.0": {
+			"name": "ref-struct",
+			"version": "1.0.0",
+			"dependencies": {
+				"debug": "2",
+				"ref": "~0.3.2"
+			},
+			"devDependencies": {
+				"bindings": "~1.2.0",
+				"nan": "~1.1.0",
+				"mocha": "*",
+				"ref-array": "~0.0.3"
+			},
+			"dist": {
+				"shasum": "fbd9fd0f83b6c01587f4221497ef338a3e3e5972",
+				"tarball": "https://registry.npmjs.org/ref-struct/-/ref-struct-1.0.0.tgz"
+			}
+		},
+		"1.0.1": {
+			"name": "ref-struct",
+			"version": "1.0.1",
+			"dependencies": {
+				"debug": "2",
+				"ref": "1"
+			},
+			"devDependencies": {
+				"bindings": "~1.2.0",
+				"nan": "~1.1.0",
+				"mocha": "*",
+				"ref-array": "~0.0.3"
+			},
+			"dist": {
+				"shasum": "cc193fa7287983518547c62f5784f02b2b496f5f",
+				"tarball": "https://registry.npmjs.org/ref-struct/-/ref-struct-1.0.1.tgz"
+			}
+		},
+		"1.0.2": {
+			"name": "ref-struct",
+			"version": "1.0.2",
+			"dependencies": {
+				"debug": "2",
+				"ref": "1"
+			},
+			"devDependencies": {
+				"bindings": "~1.2.0",
+				"nan": "2",
+				"mocha": "*",
+				"ref-array": "~1.1.2"
+			},
+			"dist": {
+				"shasum": "6e37cafa2db5f5f2ddaf5ae8bafced3e246cbc90",
+				"tarball": "https://registry.npmjs.org/ref-struct/-/ref-struct-1.0.2.tgz"
+			}
+		},
+		"1.1.0": {
+			"name": "ref-struct",
+			"version": "1.1.0",
+			"dependencies": {
+				"debug": "2",
+				"ref": "1"
+			},
+			"devDependencies": {
+				"bindings": "~1.2.0",
+				"nan": "2",
+				"mocha": "*",
+				"ref-array": "~1.1.2"
+			},
+			"dist": {
+				"shasum": "5d5ee65ad41cefc3a5c5feb40587261e479edc13",
+				"tarball": "https://registry.npmjs.org/ref-struct/-/ref-struct-1.1.0.tgz"
+			}
+		}
+	},
+	"modified": "2017-05-11T10:03:18.931Z",
+	"cachedAt": 1587449858642
+}
